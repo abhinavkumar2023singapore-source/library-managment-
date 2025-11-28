@@ -1,5 +1,18 @@
 # output 
 
+<img width="879" height="862" alt="image" src="https://github.com/user-attachments/assets/25dcd675-2b08-4612-8a25-c633ba43644d" />
+
+<img width="931" height="895" alt="image" src="https://github.com/user-attachments/assets/b41c1b95-de31-4e98-ac0c-27b682d31d85" />
+
+
+
+<img width="580" height="802" alt="image" src="https://github.com/user-attachments/assets/258e5797-9a1d-4caa-b9e8-d344b2fa5080" />
+
+
+
+
+
+
 
 
 
