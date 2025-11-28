@@ -1,3 +1,4 @@
+#abhinav kumar 2501250050
 # inventory.py
 import json
 from pathlib import Path
@@ -73,3 +74,4 @@ class LibraryInventory:
             "available": int((statuses == "available").sum()),
             "issued": int((statuses == "issued").sum())
         }
+
